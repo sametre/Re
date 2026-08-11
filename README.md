@@ -2,7 +2,7 @@
 
 ## Download for Windows
 
-[![Download Re for Windows](https://img.shields.io/badge/Download-Re%20for%20Windows-0176D3?style=for-the-badge&logo=windows)](https://github.com/aptus0/Re/releases/latest/download/Re-Setup-Windows-x64.exe)
+[![Download Re for Windows](https://img.shields.io/badge/Download-Re%20for%20Windows-0176D3?style=for-the-badge&logo=windows)](https://github.com/sametre/Re/releases/latest/download/Re-Setup-Windows-x64.exe)
 
 The Windows installer is self-contained and uses **SQLite 3**, so it does not
 require SQL Server, administrator privileges, or a separate .NET installation.
