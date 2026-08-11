@@ -20,6 +20,6 @@ public sealed class ReleaseVerifier : IReleaseVerifier
     {
         // GitHub Releases API verification
         await Task.Delay(10, cancellationToken);
-        return new ReleaseInfo("1.2.0", "https://github.com/aptus0/Re/releases/latest", "Performance improvements & Salesforce 2GP integration.", false);
+        return new ReleaseInfo("1.2.0", "https://github.com/sametre/Re/releases/latest", "Performance improvements & Salesforce 2GP integration.", false);
     }
 }
